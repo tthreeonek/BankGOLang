@@ -18,7 +18,7 @@
 
 ## 📁 Структура проекта
 ```
-bank-api/
+BankGOLang/
 ├── cmd/server/ # Входная точка, DI
 ├── internal/
 │ ├── config/ # Загрузка .env
