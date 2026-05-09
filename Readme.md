@@ -38,8 +38,8 @@ bank-api/
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/your-username/bank-api.git
-   cd bank-api
+   git clone https://github.com/tthreeonek/BankGOLang.git
+   cd BankGOLang
 
 2. **Настройте переменные окружения**
 
